@@ -1,6 +1,6 @@
 # Franchise from Ksenia
 
-## Some new section from Sergey
+## Section from Ksenia and Sergey
 
 *a sql notebook*
 
